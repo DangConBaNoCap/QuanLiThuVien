@@ -1,1 +1,16 @@
 # QuanLiThuVien
+
+4.1	Xây dựng CSDL đầu sách, độc giả, thông tin mượn trả  (Trang)
+4.2	Thiết kế giao diện cửa sổ chính (màn hình đăng nhập, các menu trỏ đến các module con,…). (Trang)
+4.3 Xây dựng module thêm đầu sách mới (Trường)
+4.3	Xây dựng module sửa thông tin đầu sách (Diệm)
+4.4	Xây dựng module xóa thông tin đầu sách (Dũng)
+4.5	Xây dựng module tìm kiếm đầu sách (Trường)
+4.6	Xây dựng module thêm độc giả mới(Tùng)
+4.7	Xây dựng module sửa thông tin độc giả (tùng)
+4.8 Xây dựng module xóa thông tin độc giả (tùng)
+4.9 Xây dựng module tìm kiếm độc giả (Tùng)
+4.10 Xây dựng module quản lý thông tin mượn trả (thêm, sửa xóa,tìm kiếm)(Trang)
+4.11 Xây dựng module hướng dẫn sử dụng phần mềm (menu Help, F1) chi tiết đến từng chức năng (Dũng + Diệm)
+4.12 Xây dựng tài liệu hướng dẫn cài đặt, vận hành (Trường)
+4.13 Ghép nối các module để nhận được phần mềm hoàn chỉnh (Trang)
